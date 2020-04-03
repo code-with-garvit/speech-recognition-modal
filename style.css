@@ -1,0 +1,12 @@
+*{
+	margin: 10px;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: monospace;
+	font-size: 25px;
+}
+
+.talk{
+	border: 2px solid black;
+	cursor: pointer;
+}
